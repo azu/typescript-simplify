@@ -1,0 +1,33 @@
+{
+  "name": "typescript-simplify",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azu/typescript-simplify.git"
+  },
+  "author": "azu",
+  "email": "azuciao@gmail.com",
+  "homepage": "https://github.com/azu/typescript-simplify",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azu/typescript-simplify/issues"
+  },
+  "version": "1.0.0",
+  "description": "browserify transform for typescript.",
+  "main": "lib/typescript-simplify.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "browserify",
+    "transforms",
+    "plugin"
+  ],
+  "dependencies": {
+    "through": "^2.3.6",
+    "typescript-simple": "^1.0.2"
+  }
+}
