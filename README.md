@@ -11,7 +11,7 @@ Provide valid SourceMap on gulp + Browserify + TypeScript.
 The limitation come from [teppeis/typescript-simple](https://github.com/teppeis/typescript-simple "teppeis/typescript-simple").
 So, typescript-simplify is no use without creating **bundle file**.
 
-I recommend that use a combination of **tsc** compiler directory and typescript-simplify.
+I recommend that use a combination of **tsc** compiler directly and typescript-simplify.
 
 ## Installation
 
